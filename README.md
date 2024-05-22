@@ -60,7 +60,8 @@ In case of an emergency, a predefined emergency key can access a push button whi
 ![image](https://github.com/Vishnu45t86/Locker-system/assets/109750872/3c672b54-d3d4-4787-8bc4-756c3d16fa04)
 
 ## Project
-![image](https://github.com/Vishnu45t86/Locker-system/assets/109750872/e18e1600-332f-41bd-a27e-27d57894b47c)
+![Locker-crop](https://github.com/Vishnu45t86/Locker-system/assets/109750872/c731cba4-0737-4a9e-93a4-812788098602)
+
 
 
 
