@@ -11,7 +11,7 @@ This project involves the development of an innovative electronic lock system ut
 - [Hardware Components](#hardware-components)
 - [Working Principle](#working-principle)
 - [Circuit Diagram](#circuit-diagram)
-- [Project](#assembly-code)
+- [Project](#project)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
