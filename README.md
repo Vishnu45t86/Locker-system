@@ -11,7 +11,7 @@ This project involves the development of an innovative electronic lock system ut
 - [Hardware Components](#hardware-components)
 - [Working Principle](#working-principle)
 - [Circuit Diagram](#circuit-diagram)
-- [Assembly Code](#assembly-code)
+- [Project](#assembly-code)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
@@ -61,9 +61,11 @@ The 4x4 keypad is used for PIN input. The entered PIN is compared to the predefi
 In case of an emergency, a predefined emergency key can access a push button which, when activated, activates the relay, turns on the green LED, and unlocks the door.
 
 ## Circuit Diagram
+![image](https://github.com/Vishnu45t86/Locker-system/assets/109750872/3c672b54-d3d4-4787-8bc4-756c3d16fa04)
 
+## Project
+![image](https://github.com/Vishnu45t86/Locker-system/assets/109750872/2ca019b8-fd75-402a-86eb-d7fb403e8441)
 
-## Assembly Code
 
 
 
